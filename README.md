@@ -6,7 +6,11 @@
 
 ## Analysis and Challenges
 
+![Theater Outcomes vs Launch Dates](/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Launch Date, The overview of the analysis is well described with screenshots, 
+
+![Outcomes vs Goals](/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
