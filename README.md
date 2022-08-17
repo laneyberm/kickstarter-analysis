@@ -14,9 +14,9 @@
 
 ![Outcomes vs Goals](/Outcomes_vs_Goals.png)
 
-### The above graph provides percent information about play outcomes based upon is pledged goal raised amount in dollars. Based upon the above graph, the percent of successful events gradually drecreased until the goal amount was $25,000. The percent of successful events increased from $25,000 to $44,999. After $45,000, the percent of successful events drop rapidly. The percent of failed events had the inverse information from the successful events.  The percent of successful theater plays changed over time. There is a negative trend from less that $1000 between $24,999. There was a positive trend between $25000 and $44,999.   
+### The above graph provides percent information about play outcomes based upon is pledged goal raised amount in dollars. The percent of successful theater plays changed over time. There is a negative trend from less that $1000 between $24,999. There was a positive trend between $25000 and $44,999. After $45,000, the percent of successful events drop rapidly. The percent of failed events had the inverse information from the successful events.     
 
-### How the graph is currently depicted, it is hard to compare postive and negative events without switching the data and graph to percentages when looking month to month. This information gives trend analysis of events that took place in a month. 
+### How the graph is currently depicted, it is hard to compare positive and negative events without switching the data and graph to percentages when looking month to month. This information gives trend analysis of events that took place in a month. 
 
 ## Results
 
@@ -28,5 +28,5 @@
 
 - The dataset is great to identify successful and failed events, but it is difficult to make inferences about determining a successful event based on the launch date and pledge goal. For this information, we need more data about the successful and failed events: how did they raised the money for pledges, what external factors that helped meet goal pledged, was there a guest speaker or did they have recruitment? Can they hold a satisfaction surveys? With information like this, we could start making better inferences about what time of year to launch a theater event and how much to set the goal amount to for a theater play. Additionally, we should also find out how much more money each event had pledged higher than the goal as higher amounts probably meant that the event had a high chance of success. 
 
-- We should create another graph that is the percentages of theater outcomes based on launch date to help determine the time frame of launching a theater event. We should also create another graph of how much the more than the goal effected the event of a success or failure. What are some other possible tables and/or graphs that we could create? Is there a recommendation for additional tables or graphs?
+- We should create another graph that is the percentages of theater outcomes based on launch date to help determine the time frame of launching a theater event. We should also create another graph of how much the more the pledged amount vs the goal effected the event of a success or failure.
 
