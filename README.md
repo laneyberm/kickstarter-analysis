@@ -1,8 +1,8 @@
-# Kickstarting with Excel
+# Theater Play Outcomes in Relation to their Launch Dates and Funding Goals
 
 ## Overview of Project
 
-### The purpose and background are well defined
+### Louise’s play, Fever, came close to its fundraising goal in a short amount of time. She wants to know how different campaigns fared in relation to their launch dates and their funding goals. I used the Kickstarter dataset to analyze and visualize campaign outcomes based on their launch dates and their funding goals. The following will be my analysis of how different the outcomes in relation to launch date and my analysis of how different the outcomes in relation to their funding goals.
 
 ## Analysis and Challenges
 
