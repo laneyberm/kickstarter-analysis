@@ -8,7 +8,7 @@
 
 ![Theater Outcomes vs Launch Dates](/Theater_Outcomes_vs_Launch.png)
 
-### Analysis of Outcomes Based on Launch Date, The overview of the analysis is well described with screenshots, 
+### The above graph provides information about Theater outcomes based upon it launch date. Based on the above graph, Analysis of Outcomes Based on Launch Date, The overview of the analysis is well described with screenshots, 
 
 ![Outcomes vs Goals](/Outcomes_vs_Goals.png)
 
