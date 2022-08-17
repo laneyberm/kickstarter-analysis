@@ -20,7 +20,7 @@
 
 ## Results
 
-- May held largest difference between the most successful theater events compared to May failed theater events. Therefore, May would be the best time to launch a theater event. 
+- May held largest difference between the most successful theater events compared to May failed theater events. Therefore based on the above information, May would be the best time to launch a theater event. 
 
 - The lowest difference in successful and failed theater events was held in December. Both successful and failed events were close to equal which would mean that a theater event held in December would have close to a 50% chance of success.
 
