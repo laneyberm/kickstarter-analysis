@@ -8,7 +8,9 @@
 
 ![Theater Outcomes vs Launch Dates](/Theater_Outcomes_vs_Launch.png)
 
-### The above graph provides information about Theater outcomes based upon it launch date. Based on the above graph, Analysis of Outcomes Based on Launch Date, The overview of the analysis is well described with screenshots, 
+### The above graph provides information about theater outcomes based upon it launch date. Based on the above graph, successful events increased from January until it's peak in May. After May, the successful events decreased gradually for the rest of the year.  Another obsevation from the graph is that the successful events in January and March are the same. 
+
+Also from the above graph, failed events gradually increased from January until May. Between May and August, the events remained similiar. There is a spike of failed events in October. 
 
 ![Outcomes vs Goals](/Outcomes_vs_Goals.png)
 
